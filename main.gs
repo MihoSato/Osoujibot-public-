@@ -1,4 +1,4 @@
-function main {
+function main() {
   const slackWebhookUrl = "https://hooks.slack.com/services/XXXXXXXXXXXXXXXXXXXXX";  //Put in your webhook's URL
   const pickNum = 2;  // The number of members you wanna pick up
   const weekNum = 3;  // How many weeks to send a cleaning rota on every Monday
